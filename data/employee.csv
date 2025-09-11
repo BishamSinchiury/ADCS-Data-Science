@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Position,DateOfJoining,Salary,Email,Phone
+1001,John,Doe,Engineering,Software Engineer,2021-06-15,75000,john.doe@example.com,555-1234
+1002,Jane,Smith,Marketing,Marketing Manager,2020-03-22,68000,jane.smith@example.com,555-5678
+1003,Michael,Brown,HR,HR Specialist,2019-11-05,62000,michael.brown@example.com,555-8765
+1004,Emily,Davis,Finance,Accountant,2022-01-10,70000,emily.davis@example.com,555-4321
+1005,William,Wilson,Engineering,DevOps Engineer,2021-09-18,78000,william.wilson@example.com,555-2468
+1006,Olivia,Johnson,Sales,Sales Executive,2020-07-14,65000,olivia.johnson@example.com,555-1357
+1007,James,Lee,Engineering,QA Engineer,2019-04-23,72000,james.lee@example.com,555-9753
+1008,Sophia,Martinez,Customer Support,Support Specialist,2022-05-30,60000,sophia.martinez@example.com,555-8642
+1009,Daniel,Garcia,Marketing,Content Writer,2021-12-01,63000,daniel.garcia@example.com,555-3579
+1010,Emma,Lopez,Finance,Financial Analyst,2020-09-11,71000,emma.lopez@example.com,555-4682
