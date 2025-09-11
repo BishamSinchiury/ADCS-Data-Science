@@ -1,0 +1,112 @@
+[
+ {
+   "EmployeeID": 1001,
+   "FirstName": "John",
+   "LastName": "Doe",
+   "Department": "Engineering",
+   "Position": "Software Engineer",
+   "DateOfJoining": "2021-06-15",
+   "Salary": 75000,
+   "Email": "john.doe@example.com",
+   "Phone": "555-1234"
+ },
+ {
+   "EmployeeID": 1002,
+   "FirstName": "Jane",
+   "LastName": "Smith",
+   "Department": "Marketing",
+   "Position": "Marketing Manager",
+   "DateOfJoining": "2020-03-22",
+   "Salary": 68000,
+   "Email": "jane.smith@example.com",
+   "Phone": "555-5678"
+ },
+ {
+   "EmployeeID": 1003,
+   "FirstName": "Michael",
+   "LastName": "Brown",
+   "Department": "HR",
+   "Position": "HR Specialist",
+   "DateOfJoining": "2019-11-05",
+   "Salary": 62000,
+   "Email": "michael.brown@example.com",
+   "Phone": "555-8765"
+ },
+ {
+   "EmployeeID": 1004,
+   "FirstName": "Emily",
+   "LastName": "Davis",
+   "Department": "Finance",
+   "Position": "Accountant",
+   "DateOfJoining": "2022-01-10",
+   "Salary": 70000,
+   "Email": "emily.davis@example.com",
+   "Phone": "555-4321"
+ },
+ {
+   "EmployeeID": 1005,
+   "FirstName": "William",
+   "LastName": "Wilson",
+   "Department": "Engineering",
+   "Position": "DevOps Engineer",
+   "DateOfJoining": "2021-09-18",
+   "Salary": 78000,
+   "Email": "william.wilson@example.com",
+   "Phone": "555-2468"
+ },
+ {
+   "EmployeeID": 1006,
+   "FirstName": "Olivia",
+   "LastName": "Johnson",
+   "Department": "Sales",
+   "Position": "Sales Executive",
+   "DateOfJoining": "2020-07-14",
+   "Salary": 65000,
+   "Email": "olivia.johnson@example.com",
+   "Phone": "555-1357"
+ },
+ {
+   "EmployeeID": 1007,
+   "FirstName": "James",
+   "LastName": "Lee",
+   "Department": "Engineering",
+   "Position": "QA Engineer",
+   "DateOfJoining": "2019-04-23",
+   "Salary": 72000,
+   "Email": "james.lee@example.com",
+   "Phone": "555-9753"
+ },
+ {
+   "EmployeeID": 1008,
+   "FirstName": "Sophia",
+   "LastName": "Martinez",
+   "Department": "Customer Support",
+   "Position": "Support Specialist",
+   "DateOfJoining": "2022-05-30",
+   "Salary": 60000,
+   "Email": "sophia.martinez@example.com",
+   "Phone": "555-8642"
+ },
+ {
+   "EmployeeID": 1009,
+   "FirstName": "Daniel",
+   "LastName": "Garcia",
+   "Department": "Marketing",
+   "Position": "Content Writer",
+   "DateOfJoining": "2021-12-01",
+   "Salary": 63000,
+   "Email": "daniel.garcia@example.com",
+   "Phone": "555-3579"
+ },
+ {
+   "EmployeeID": 1010,
+   "FirstName": "Emma",
+   "LastName": "Lopez",
+   "Department": "Finance",
+   "Position": "Financial Analyst",
+   "DateOfJoining": "2020-09-11",
+   "Salary": 71000,
+   "Email": "emma.lopez@example.com",
+   "Phone": "555-4682"
+ }
+]
