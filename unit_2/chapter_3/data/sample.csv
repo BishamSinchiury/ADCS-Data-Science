@@ -1,0 +1,6 @@
+ID,Name,Department,Salary,JoiningDate
+1,Alice,HR,50000,2023-01-15
+2,Bob,IT,60000,2022-07-01
+3,Charlie,Finance,,2021-05-20
+4,David,Marketing,52000,2020-12-10
+5,Eva,IT,58000,2019-09-05
